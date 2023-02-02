@@ -6,7 +6,6 @@ using UnityEngine.SceneManagement;
 
 public class picControl : MonoBehaviour
 {
-    public GameObject loading; 
     public GameObject score; 
     public SpriteRenderer control;
     public Sprite pointOn;
@@ -15,7 +14,6 @@ public class picControl : MonoBehaviour
     void Start()
     {
         control = gameObject.GetComponent<SpriteRenderer>();
-        loading.SetActive(false);
         if (score!=null){
         score.SetActive(true);
         } 

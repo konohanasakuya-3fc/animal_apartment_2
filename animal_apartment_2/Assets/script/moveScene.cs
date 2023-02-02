@@ -33,3 +33,4 @@ public class moveScene : MonoBehaviour
         SceneManager.LoadScene(sceneName);
     }
 }
+
