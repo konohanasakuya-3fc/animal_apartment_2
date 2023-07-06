@@ -11,4 +11,25 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/1F.unity
     guid: 5ed2802cb60324fdaae19de51c8b7328
+  - enabled: 1
+    path: Assets/Scenes/catRoom.unity
+    guid: e59789c4425df449aad3f093896fae4d
+  - enabled: 1
+    path: Assets/Scenes/elephantRoom.unity
+    guid: f4907be2c75124c4cba356ee64ef1234
+  - enabled: 1
+    path: Assets/Scenes/giraffeRoom.unity
+    guid: 9be9db3ebaf814b30b0d35db42902ce4
+  - enabled: 1
+    path: Assets/Scenes/goal.unity
+    guid: 40bff2b48a2694fc8b57503cfeba92a9
+  - enabled: 1
+    path: Assets/Scenes/hamsterRoom.unity
+    guid: 649bba99a739147c5995f8f9faf44d6c
+  - enabled: 1
+    path: Assets/Scenes/lionRoom.unity
+    guid: dc3421a05fb9944cbab5204d6eadab13
+  - enabled: 1
+    path: Assets/Scenes/rabbitRoom.unity
+    guid: 638a2fa6ac403439095513f1c2f22f72
   m_configObjects: {}
